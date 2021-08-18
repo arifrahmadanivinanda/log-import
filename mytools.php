@@ -1,4 +1,5 @@
 <?php
+ERROR_REPORTING(0);
 /*Initialize*/
 $file = $argv[1];
 $openFile = fopen($file, "r");
