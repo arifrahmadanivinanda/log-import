@@ -38,6 +38,7 @@ Mandatory arguments to long options are mandatory for short options too.
 }
 fclose($openFile);
 /*Proccess*/
+$isFormat = true;
 $file_name = 'log.txt';
 $data_finalize = '';
 if($isFormat){
