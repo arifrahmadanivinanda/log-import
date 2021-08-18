@@ -1,4 +1,5 @@
 Usage: php mytools.php [FILE]... [OPTION]...
+
 To get log from certain log path in the system.
 
 Mandatory arguments to long options are mandatory for short options too.
